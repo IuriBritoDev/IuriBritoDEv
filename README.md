@@ -1,8 +1,11 @@
 ### Olá! Eu sou o Iuri Brito 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/iuri-brito-2bb869227)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-brito-2bb869227)
 
-![Iuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical)
+<div>  
+  <img src="https://github-readme-stats.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical" alt="Iuri's GitHub stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriBritoDev&bg_color=0d1117&layout=compact&theme=radical" />
+</div>
 
 <div style="display: inline_block">
   <img align=center alt=python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
@@ -12,7 +15,8 @@
   <img align=center alt=css src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
   <img align=center alt=javascript src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align=center alt=vue src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
- 
+  <img align=center alt=sqlite src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+  <img align=center alt=mysql src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 <!--
 **IuriBritoDev/IuriBritoDEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
