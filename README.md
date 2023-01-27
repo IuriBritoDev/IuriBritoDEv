@@ -1,13 +1,16 @@
-### Olá! Eu sou o Iuri Brito 👋
+### Hi! I'm Iuri Brito 👋
+- 🔭 I’m currently working on Python projects
+- 🌱 I’m currently learning more about JavaScript
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-brito-2bb869227)
+
 
 <div>  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IuriBritoDev&show_icons=true&theme=radical" alt="Iuri's GitHub stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=IuriBritoDev&show_icons=true&include_all_commits=true&theme=radical" alt="Iuri's GitHub stats" /> 
   <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuriBritoDev&bg_color=0d1117&layout=compact&theme=radical" />
 </div>
 
-<div style="display: inline_block"><br/>
+## Skills
+<div style="display: inline_block">
   <img align=center alt=python src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align=center alt=django src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
   <img align=center alt=flask src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
@@ -17,6 +20,9 @@
   <img align=center alt=vue src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
   <img align=center alt=mysql src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+## Contact
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iuri-brito-2bb869227)
 <!--
 **IuriBritoDev/IuriBritoDEv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
